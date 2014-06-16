@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/MGCode/!svn/ver/1166/trunk/Projects/Utility/MGMemory/Src
+END
+NedPooling.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/MGCode/!svn/ver/1166/trunk/Projects/Utility/MGMemory/Src/NedPooling.cpp
+END
+StackOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/MGCode/!svn/ver/2/trunk/Projects/Utility/MGMemory/Src/StackOp.cpp
+END
+MemBlockOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/MGCode/!svn/ver/2/trunk/Projects/Utility/MGMemory/Src/MemBlockOp.cpp
+END
+RamAlloc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/MGCode/!svn/ver/2/trunk/Projects/Utility/MGMemory/Src/RamAlloc.cpp
+END
+HeapOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/MGCode/!svn/ver/2/trunk/Projects/Utility/MGMemory/Src/HeapOp.cpp
+END
